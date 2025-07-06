@@ -1,6 +1,6 @@
 # 🎓 StudentHub Organization
 
-Welcome to **StudentHub** — an organization formed by a team of passionate university students dedicated to making academic life easier, smarter, and more efficient.
+Welcome to **Unico** — an organization formed by a team of passionate University of Isfahan students dedicated to making academic life easier, smarter, and more efficient.
 
 ## 🚀 Our Mission
 
